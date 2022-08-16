@@ -1,0 +1,15 @@
+D:\Test\С#\Seminar 3\Task20\bin\Debug\net6.0\Task20.exe
+D:\Test\С#\Seminar 3\Task20\bin\Debug\net6.0\Task20.deps.json
+D:\Test\С#\Seminar 3\Task20\bin\Debug\net6.0\Task20.runtimeconfig.json
+D:\Test\С#\Seminar 3\Task20\bin\Debug\net6.0\Task20.dll
+D:\Test\С#\Seminar 3\Task20\bin\Debug\net6.0\Task20.pdb
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.csproj.AssemblyReference.cache
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.AssemblyInfoInputs.cache
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.AssemblyInfo.cs
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.csproj.CoreCompileInputs.cache
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.dll
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\refint\Task20.dll
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.pdb
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\Task20.genruntimeconfig.cache
+D:\Test\С#\Seminar 3\Task20\obj\Debug\net6.0\ref\Task20.dll

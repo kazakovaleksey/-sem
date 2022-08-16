@@ -1,0 +1,15 @@
+D:\Test\С#\Seminar 3\Bonus\bin\Debug\net6.0\Bonus.exe
+D:\Test\С#\Seminar 3\Bonus\bin\Debug\net6.0\Bonus.deps.json
+D:\Test\С#\Seminar 3\Bonus\bin\Debug\net6.0\Bonus.runtimeconfig.json
+D:\Test\С#\Seminar 3\Bonus\bin\Debug\net6.0\Bonus.dll
+D:\Test\С#\Seminar 3\Bonus\bin\Debug\net6.0\Bonus.pdb
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.csproj.AssemblyReference.cache
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfoInputs.cache
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfo.cs
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.csproj.CoreCompileInputs.cache
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.dll
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\refint\Bonus.dll
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.pdb
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\Bonus.genruntimeconfig.cache
+D:\Test\С#\Seminar 3\Bonus\obj\Debug\net6.0\ref\Bonus.dll
