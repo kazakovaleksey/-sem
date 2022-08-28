@@ -47,7 +47,7 @@ for (int i = 0; i < matr.GetLength(0); i++)
 
 void IndexSearch(int[,] mat, int i, int j)
 {
-    if (i > mat.GetLength(0) || j > mat.GetLength(1))
+    if (i > mat.GetLength(0) || j > mat.GetLength(1) || i<0 || j<0)
     {
         Console.WriteLine("Нет такого элемента в исходном массиве");
     }
@@ -67,6 +67,8 @@ string q = Console.ReadLine();
 string[] s_array = q.Split();
 int i = int.Parse(s_array[0]);
 int j = int.Parse(s_array[1]);
+
+
 
 IndexSearch(matrix, i, j);
 
