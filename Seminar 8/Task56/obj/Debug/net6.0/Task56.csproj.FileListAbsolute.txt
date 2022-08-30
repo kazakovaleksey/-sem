@@ -1,0 +1,15 @@
+D:\Test\C#2\-sem\Seminar 8\Task56\bin\Debug\net6.0\Task56.exe
+D:\Test\C#2\-sem\Seminar 8\Task56\bin\Debug\net6.0\Task56.deps.json
+D:\Test\C#2\-sem\Seminar 8\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+D:\Test\C#2\-sem\Seminar 8\Task56\bin\Debug\net6.0\Task56.dll
+D:\Test\C#2\-sem\Seminar 8\Task56\bin\Debug\net6.0\Task56.pdb
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.dll
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\refint\Task56.dll
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.pdb
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+D:\Test\C#2\-sem\Seminar 8\Task56\obj\Debug\net6.0\ref\Task56.dll
