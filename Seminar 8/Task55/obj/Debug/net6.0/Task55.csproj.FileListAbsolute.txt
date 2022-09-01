@@ -1,0 +1,15 @@
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.csproj.AssemblyReference.cache
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.AssemblyInfoInputs.cache
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.AssemblyInfo.cs
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.csproj.CoreCompileInputs.cache
+D:\Test\C#2\-sem\Seminar 8\Task55\bin\Debug\net6.0\Task55.exe
+D:\Test\C#2\-sem\Seminar 8\Task55\bin\Debug\net6.0\Task55.deps.json
+D:\Test\C#2\-sem\Seminar 8\Task55\bin\Debug\net6.0\Task55.runtimeconfig.json
+D:\Test\C#2\-sem\Seminar 8\Task55\bin\Debug\net6.0\Task55.dll
+D:\Test\C#2\-sem\Seminar 8\Task55\bin\Debug\net6.0\Task55.pdb
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.dll
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\refint\Task55.dll
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.pdb
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\Task55.genruntimeconfig.cache
+D:\Test\C#2\-sem\Seminar 8\Task55\obj\Debug\net6.0\ref\Task55.dll
