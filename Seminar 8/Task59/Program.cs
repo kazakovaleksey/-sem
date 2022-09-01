@@ -11,7 +11,7 @@
 // 2 2 6
 // 3 4 7
 
-Console.WriteLine("Введите размерность матрицы через пробел:");
+Console.WriteLine("Введите размерность массива через пробел:");
 string s = Console.ReadLine();
 string[] s_arr = s.Split();
 int M = int.Parse(s_arr[0]);
@@ -20,6 +20,7 @@ int N = int.Parse(s_arr[1]);
 
 
 int[,] matrix = new int[M, N];
+
 
 
 void PrintArray2D(int[,] array2d)
