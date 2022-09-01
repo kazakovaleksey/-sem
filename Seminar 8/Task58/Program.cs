@@ -7,7 +7,7 @@
 // 18 20
 // 15 18
 
-Console.WriteLine("Введите размерность матриц через пробел:");
+Console.WriteLine("Введите размерность матриц через пробел :");
 string s = Console.ReadLine();
 string[] s_arr = s.Split();
 int M = int.Parse(s_arr[0]);
