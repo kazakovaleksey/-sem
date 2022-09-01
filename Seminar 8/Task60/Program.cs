@@ -41,7 +41,7 @@ void PrintArray3D(int[,,] array3d)
 
 }
 
-bool IsUniqueValue(int[,,] matr, int x)
+bool IsUniqueValue(int[,,] matr, int x) //метод проверки уникально ли сгенерированное случайное число
 {
 
     for (int i = 0; i < matr.GetLength(0); i++)
@@ -62,7 +62,7 @@ bool IsUniqueValue(int[,,] matr, int x)
     return true;
 }
 
-int CheckIndex(int[,,] matr)
+int CheckIndex(int[,,] matr) // метод поледней проверки, сколько в созданном массиве уникальных чисел
 {
     int count = 0;
     for (int i = 0; i < matr.GetLength(0); i++)
