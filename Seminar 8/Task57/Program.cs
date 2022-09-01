@@ -11,11 +11,12 @@
 // 6 встречается 2 раза
 // В нашей исходной матрице встречаются элементы от 0 до 9
 
-Console.WriteLine("Введите размерность матрицы через пробел:");
+Console.WriteLine("Введите размерность массива через пробел :");
 string s = Console.ReadLine();
 string[] s_arr = s.Split();
 int M = int.Parse(s_arr[0]);
 int N = int.Parse(s_arr[1]);
+
 
 int[,] matrix = new int[M, N];
 
