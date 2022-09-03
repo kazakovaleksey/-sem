@@ -7,6 +7,8 @@ string[] s_arr = s.Split();
 int M = int.Parse(s_arr[0]);
 int N = int.Parse(s_arr[1]);
 
+
+
 int[,] matrix = new int[M, N];
 int[,] transponmatrix = new int[N, M];
 

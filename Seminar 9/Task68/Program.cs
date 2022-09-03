@@ -9,6 +9,7 @@ string[] s_arr = s.Split();
 int N = int.Parse(s_arr[0]);
 int M = int.Parse(s_arr[1]);
 
+
 if (M >= 0 && N >= 0)
 {
     int sum = Sum(N, M);
